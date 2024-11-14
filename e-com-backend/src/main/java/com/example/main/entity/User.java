@@ -53,5 +53,41 @@ public class User {
 		this.role = role;
 	}
 
+	public String setEmail(String email2) {
+		return email2;
+		// TODO Auto-generated method stub
+			
+	}
+
+	public void setName(String name2) {
+		// TODO Auto-generated method stu
+		
+		
+	}
+
+	public void setPassword(String password2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setName1(String name2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+	public Byte[] getImg() {
+		return img;
+	}
+
+	public void setImg(Byte[] img) {
+		this.img = img;
+	}
+
+	public String getName() {
+		return name;
+	}
+
 
 }
